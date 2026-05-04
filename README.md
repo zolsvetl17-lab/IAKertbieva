@@ -22,7 +22,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ВАШ_ЛОГИН/random-quote-generator.git
+   git clone https://github.com/zolsvetl17-lab/IAKertbieva.git
 2. Перейдите в папку проекта:
    ```bash
    cd random-quote-generator
